@@ -1,0 +1,129 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.head-content {
+    height: 160px;
+    display: flex;
+}
+
+.head-ind {
+    display: flex;
+}
+
+.ind-logo {
+    width: 65px;
+    height: 70px;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+
+.govt-head {
+    margin-top: 35px;
+    margin-left: 15px;
+    line-height: 25px;
+    color: #171616;
+    text-shadow: 0 0 2px #171616;
+    font-size: larger;
+}
+
+.head-para {
+    display: flex;
+    margin-top: 35px;
+    margin-left: 25px;
+    color: #171616;
+   
+}
+
+.head-enam {
+    display: flex;
+}
+
+.enam-logo {
+      width: 120px;
+    height: 90px;
+    margin-top: 15px;
+}
+
+.enam-head {
+    margin-top: 35px;
+    color: green;
+    font-size: larger;
+    line-height: 25px;
+    word-spacing: 4px;
+    font-weight: 900;
+}
+
+.head-last1 {
+    margin-left: 150px;
+    margin-top: 25px;
+    display: flex;
+}
+
+.lang-one {
+    margin-left: 50px;
+    font-size: 20px;
+}
+
+.lang-opt {
+    border: none;
+    height: 23px;
+    margin-left: 15px;
+    font-size: 17px;
+}
+
+.head-last2 {
+    display: flex;
+     margin-left: 200px;
+     font-size: larger;
+     color: #497105;
+     font-weight: 900;
+     text-decoration: none;
+}
+
+.head-last2 a {
+    text-decoration: none;
+    color: #497105;
+}
+
+.log-in {
+    margin-left: 50px;
+}
+
+.multi-one {
+    height: 20px;
+    width: 20px;
+    background-color: #497105;
+}
+
+.multi-two {
+    height: 20px;
+    width: 20px;
+    background-color: #b45834;
+}
+
+.multi-three {
+    height: 20px;
+    width: 20px;
+    background-color: #3f96da;
+}
+
+.multi-four {
+    height: 20px;
+    width: 20px;
+    background-color: #9a156b;
+}
+
+.multi-color
+{
+    display: flex;
+    justify-content: space-between;
+    width: 100px;
+    margin-left: 15px;
+    margin-top: 5px;
+}
+
+.head-last2 i {
+    color: gray;
+}
